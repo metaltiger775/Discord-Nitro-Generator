@@ -30,6 +30,9 @@ python check.py
 
 ## Tested on:
 - Windows 10
+- Linux
+- Google Cloud Shell
+- Replit
 
 ## Author
 
