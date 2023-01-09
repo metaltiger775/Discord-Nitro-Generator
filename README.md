@@ -1,6 +1,6 @@
 # Welcome to Discord Nitro Generator 👋
 
-> A discord nitro link generator written in python
+> A simple discord nitro link generator and checker written in python
 
 ### 🏠 [Homepage](https://github.com/metaltiger775/Simple-Python-Spyware)
 
